@@ -1,0 +1,95 @@
+hero:
+  header: "Cross-chain native swaps made possible"
+  subheader: "The first decentralized cross-chain liquidity network"
+intro:
+  title: "WHAT IS THORCHAIN?"
+  header: "Decentralized, anonymous, oracle-free bridge between blockchains"
+  subheader: "THORChain is a groundbreaking technology that allows for fully decentralized swaps between any supported blockchain, and earns yield from native assets."
+  content:
+    title: "Always Green. Always Safe."
+    $0:
+      title: "Impermanent Loss Protection"
+      $0: "THORChain will insure liquidity providers against impermanent loss."
+    $1:
+      title: "High Yield"
+      $0: "The design of the network ruthlessly maximizes revenue for liquidity providers and node operators."
+    $2:
+      title: "Network Effects"
+      $0: "The network is run by dozens of anonymous node operators who bond RUNE to secure liquidity in pools and are rewarded for their services. Attempting to fork and bootstrap a clone would be a difficult task to achieve."
+    $3:
+      title: "Appreciating Asset"
+      $0: "RUNE is required to be paired as a settlement asset 1:1 in pools. But the network's economic design causes the value of RUNE to increase with liquidity depth."
+stats:
+  title: "THORCHAIN STATS"
+  header: "Trust numbers, not promises"
+  subheader: "The THORChain protocol is totally transparent -- you can verify its solvency for yourself. View the nodes that run the network, the vaults that they host, and the total value locked in the network."
+tools:
+  title: "THORCHAIN TOOLS"
+  header: "Community-driven development"
+  subheader: "The THORChain project is made up of a team of core developers, but is augmented by a enormous community that has built various tools that provide resources for the community."
+  content:
+    $0:
+      header: "THORChain Explorer"
+      subheader: "View the status of the network, node health, value locked, and more."
+    $1:
+      header: "RUNE DATA"
+      subheader: "Simulate profit and loss for various pools."
+    $2:
+      header: "RUNESTAKE.info"
+      subheader: "View your added liquidity, returns, APY, and more."
+economy:
+  title: "THORCHAIN ECONOMY"
+  header: "A network asset that accrues protocol value"
+  subheader: "The RUNE network asset plays a crucial role in the THORChain ecosystem. It's not a governence token -- it's the settlement asset that enables liquidity across pairs, and is bonded to secure the network."
+  content:
+    $0:
+      title: "Incentive Pendulum"
+      $0: "A balance between bonded and pooled RUNE is key to a secure and liquid network. If the network is under-bonded, node operators are incentivized to increase their bonds, if it’s over-bonded, liquidity providers are incentivized to pool more assets."
+    $1:
+      title: "Deterministic Token Value"
+      $0: "The price of RUNE is deterministic — since the network requires it to be bonded 2:1 by node operators, and paired 1:1 with pooled assets by liquidity providers, the market cap of RUNE is at least 3x TVL."
+    $2:
+      title: "High Yield"
+      $0: "The combination of the various economic incentives result in a network that produces high APY for both node operators and liquidity providers."
+    $3:
+      title: "Slip-Based Fee"
+      $0: "A liquidity-sensitive slip-based fee solves many issues — including bootstrapping shallow pools, discouraging dust and sandwich attacks, and forcing high volume/frequency traders to pay their fair share."
+    $4:
+      title: "Continuous Liquitity Pools"
+      $0: "The use of a CLP allows for many benefits, such as the ability to sense prices without an oracle. Simply by knowing the asset depth in pools, the network is able to determine price while arbitrageurs ensure the rate is inline with current market conditions."
+    $5:
+      title: "Verifiable Solvency"
+      $0: The value locked in bond, vaults, and pools is easily verified. Node operators could steal from a value they host, but they would loose their bond — which is worth much more than the vault. View the list of nodes and pools.
+roadmap:
+  title: "ROADMAP & PLANS"
+  header: "Cross chain swaps are just the beginning"
+  subheader: "At its core, THORChain is a cross-chain liquidity network. But the design of the protocol enables much more than just swaps -- synths, composites, self-paying loans -- anything is possible."
+  content:
+    released:
+      title: "Released"
+      $0: "Binance Chain Chaosnet: currently live on BEPSwap"
+      $1: "Multi-Chain Testnet: currently live at ASGARDEX"
+    upcoming:
+      title: "Upcoming"
+      $0: "Multi-Chain Chaosnet"
+      $1: "Multi-Chain Mainnet"
+    future:
+      title: "Future"
+      $0: "Lending"
+      $1: "Composite Assets"
+      $2: "Syntethic Assets"
+      $3: "Leveraged Trading"
+org:
+  title: "THORCHAIN.ORG"
+  header: "Looking for more insights?"
+  subheader: "Visit the new THORChain.org website for more information, and to gain valuable insight to the health and operation of the network."
+vocab:
+  swap: "swap"
+  liquidity: "liquidity"
+  tokens: "tokens"  
+  tvl: "total value locked"  
+  pooled: "pooled"
+  bonded: "bonded"    
+  users: "users"
+  price: "price"
+  
