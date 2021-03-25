@@ -36,7 +36,7 @@ tools:
       subheader: "Simulate profit and loss for various pools."
     $2:
       header: "RUNESTAKE.info"
-      subheader: "View your added liquidity, returns, APY, and more."
+      subheader: "Visualize liquidity positions, rewards, and total percent gain versus holding."
 economy:
   title: "THORCHAIN ECONOMY"
   header: "A network asset that accrues protocol value"
@@ -67,22 +67,22 @@ roadmap:
   content:
     released:
       title: "Released"
-      $0: "Binance Chain Chaosnet: currently live on BEPSwap"
-      $1: "Multi-Chain Testnet: currently live at ASGARDEX"
+      $0: "Binance Chain Chaosnet is currently live on BEPSwap. This network is single-chain and allows users to trade and pool BNB assets. It will be depreciated with the release of multi-chain chaosnet."
+      $1: "Multi-Chain Testnet is currently live at ASGARDEX. This is the pre-release cross-chain network that allows users to swap native testnet assets across chains."
     upcoming:
       title: "Upcoming"
-      $0: "Multi-Chain Chaosnet"
-      $1: "Multi-Chain Mainnet"
+      $0: "Multi-Chain Chaosnet is imminent. MCCN is the culmunation of years of development effort, and will be the first working decentralized cross-chain liquidity network to exist."
+      $1: "Multi-Chain Mainnet will be announced once Chaosnet has been deemed stable."
     future:
       title: "Future"
-      $0: "Lending"
-      $1: "Composite Assets"
-      $2: "Syntethic Assets"
-      $3: "Leveraged Trading"
+      $0: "Many future features are in the planning stages, including a suite of "ThorFi" products including the following:"
+      $1: "Lending"
+      $2: "Composite Assets"
+      $3: "Syntethic Assets"
+      $4: "Leveraged Trading"
 org:
   title: "THORCHAIN.ORG"
   header: "Looking for more insights?"
-  subheader: "Visit the new THORChain.org website for more information, and to gain valuable insight to the health and operation of the network."
 vocab:
   swap: "swap"
   liquidity: "liquidity"
