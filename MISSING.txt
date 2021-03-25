@@ -1,4 +1,8 @@
 The following files failed to download during site export. Please check them in the designer assets view (images) or dashboard (fonts).
 
+fonts/Mark-Simonson---Proxima-Nova-Alt-Black-webfont.ttf
 fonts/Mark-Simonson---Proxima-Nova-Alt-Bold-webfont.ttf
+fonts/Mark-Simonson---Proxima-Nova-Alt-Regular-webfont.ttf
+fonts/Mark-Simonson---Proxima-Nova-Alt-Regular-webfont.ttf
 fonts/Mark-Simonson---Proxima-Nova-ScOsf-Thin-webfont.ttf
+fonts/Mark-Simonson---Proxima-Nova-Semibold-webfont.ttf
