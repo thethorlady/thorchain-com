@@ -47,7 +47,7 @@ economy:
       $0: "A balance between bonded and pooled RUNE is key to a secure and liquid network. If the network is under-bonded, node operators are incentivized to increase their bonds, if it’s over-bonded, liquidity providers are incentivized to pool more assets."
     $1:
       title: "Deterministic Token Value"
-      $0: "The price of RUNE is deterministic — since the network requires it to be bonded 2:1 by node operators, and paired 1:1 with pooled assets by liquidity providers, the market cap of RUNE is at least 3x TVL."
+      $0: "The price of RUNE is deterministic — since the network requires it to be bonded 2:1 by node operators, and paired 1:1 with pooled assets by liquidity providers, the market cap of RUNE is at least 3x TVL of non-RUNE assets."
     $2:
       title: "High Yield"
       $0: "The combination of the various economic incentives result in a network that produces high APY for both node operators and liquidity providers."
