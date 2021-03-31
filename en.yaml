@@ -59,7 +59,7 @@ economy:
       $0: "The use of a CLP allows for many benefits, such as the ability to sense prices without an oracle. Simply by knowing the asset depth in pools, the network is able to determine price while arbitrageurs ensure the rate is inline with current market conditions."
     $5:
       title: "Verifiable Solvency"
-      $0: The value locked in bond, vaults, and pools is easily verified. Node operators could steal from a value they host, but they would loose their bond — which is worth much more than the vault. View the list of nodes and pools.
+      $0: "The value locked in bond, vaults, and pools is easily verified. Node operators could steal from a value they host, but they would loose their bond — which is worth much more than the vault. View the list of nodes and pools."
 roadmap:
   title: "ROADMAP & PLANS"
   header: "Cross chain swaps are just the beginning"
