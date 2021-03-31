@@ -1,0 +1,94 @@
+hero:
+  header: "Blockchainübergreifende native Tauschvorgänge wurden geschaffen"
+  subheader: "Das erste dezentrale blockchainübergreifende Liquiditätsnetzwerk"
+intro:
+  title: "WAS IST THORCHAIN?"
+  header: "Dezentrale, anonyme, orakelfreie Brückentechnologie zwischen Blockchains"
+  subheader: "THORChain ist eine bahnbrechende Technologie, die vollständig dezentralisierte Tauschvorgänge zwischen allen unterstützten Blockchains ermöglicht und darüber hinaus Erträge aus nativen Assets erwirtschaftet."
+  content:
+    title: "Immer grün. Immer sicher."
+    $0:
+      title: "Schutz vor dauerhaftem Verlust"
+      $0: "THORChain wird Liquiditätsversorger gegen dauerhaften Verlust versichern."
+    $1:
+      title: "Hohe Rendite"
+      $0: "Die Gestaltung des Netzwerks maximiert kompromisslos die Einnahmen für Liquiditätsversorger und Knotenbetreiber."
+    $2:
+      title: "Netzwerkeffekte"
+      $0: "Das Netzwerk wird von Dutzenden von anonymen Knoten betrieben, die RUNE binden, um die Liquidität in den Pools zu sichern und folglich für ihre Dienstleistung belohnt werden. Der Versuch, einen Klon zu forken und zu booten, ist eine schwierige Herausforderung, die nahezu unmöglich ist."
+    $3:
+      title: "Wertsteigerndes Asset"
+      $0: "RUNE muss als Abwicklungsvermögen 1:1 in Liquiditätspools gepaart werden. Die wirtschaftliche Gestaltung des Netzwerks bewirkt, dass der Wert von RUNE mit der Liquiditätstiefe ansteigt."
+stats:
+  title: "THORCHAIN STATISTIKEN"
+  header: "Vertrauen Sie Zahlen, keinen Versprechungen"
+  subheader: "Das THORChain Protokoll ist völlig transparent -- Du kannst seine Zahlungsfähigkeit jederzeit selbst überprüfen. Sieh dir die Knoten an, die das Netzwerk betreiben, die Tresore die sie hosten und den Gesamtwert der im Netzwerk vorliegt und gesichert ist."
+tools:
+  title: "THORCHAIN TOOLS"
+  header: "Gemeinschaftsorientierte Entwicklung"
+  subheader: "Das THORChain Projekt besteht aus einem Team von Kernentwicklern, wird aber durch eine riesige Community ergänzt, die verschiedene Tools entwickelt hat und diese Ressourcen der Community bereitstellen."
+  content:
+    $0:
+      header: "THORChain Explorer"
+      subheader: "Anzeige des Status des Netzwerks, des Systemzustands der Knoten, des vorhandenen Liquiditätsvermögens und mehr."
+    $1:
+      header: "RUNE DATA"
+      subheader: "Simuliere den Gewinn und Verlust für verschiedene Liquiditätspools."
+    $2:
+      header: "RUNESTAKE.info"
+      subheader: "Lass dir Liquiditätspositionen, Belohnungen und den gesamten prozentualen Gewinn gegenüber dem alleinigen Halten der Assets anzeigen."
+economy:
+  title: "THORCHAIN ÖKONOMIE"
+  header: "Ein Netzwerk Asset, das einen Protokollwert erschafft"
+  subheader: "Das RUNE Netzwerkasset spielt eine entscheidende Rolle im THORChain Ökosystem. Es ist kein "Governance-Token" -- es ist das Abwicklungsasset, das Liquidität über verschiedene Kryptowährungen hinweg ermöglicht und zur Sicherung des Netwerks gebunden ist."
+  content:
+    $0:
+      title: "Anreiz Pendel"
+      $0: "Ein Gleichgewicht zwischen gebundenen und gepoolten RUNE ist der Schlüssel zu einem sicheren und liquiden Netzwerk. Wenn im Netzwerk zu wenig RUNE gebunden sind, resultiert daraus ein Anreiz für Knotenbetreiber, ihre Bonds zu erhöhen; wenn zu viele RUNE gebunden sind, resultiert daraus ein Anreiz für Liquiditätsversorger, mehr Assets zu poolen."
+    $1:
+      title: "Deterministischer Token Wert"
+      $0: "Der Preis von RUNE ist deterministisch — da eine Grundvoraussetzung des Netzwerks ist, dass RUNE im Verhältnis 2:1 von Knotenbetreibern gebunden und im Verhältnis 1:1 von Liquiditätsversorgern mit gepoolten Assets gepaart ist, beträgt die Marktkapitalisierung von RUNE mindestens das 3-fache TVL von Nicht-RUNE-Assets."
+    $2:
+      title: "Hohe Rendite"
+      $0: "Die Kombination der verschiedenen ökonomischen Anreize führt zu einem Netzwerk, das sowohl für die Knotenbetreiber als auch für die Liquiditätsversorger hohe jährliche Renditen auf ihre Investitionen generiert."
+    $3:
+      title: "Slippage-basierte Gebühr"
+      $0: "Eine liquiditätsempfindliche, Slippage-basierte Gebühr löst viele Probleme — einschließlich das Bootstrapping von Pools mit geringer Tiefe, dem Abschrecken von "Dust-" und "Sandwich"-Attacken und den Zwang für Hochvolumen-/Frequenzhändler ihren fairen Anteil zu bezahlen."
+    $4:
+      title: "Kontinuierliche Liquiditätpools"
+      $0: "Die Verwendung eines kontinuierlichen Liquiditätpools bietet viele Vorteile, wie z. B. die Möglichkeit, Preise ohne ein Orakel zu erkennen. Trivialerweise durch die Kenntnis der Asset-Tiefe in Pools kann das Netzwerk den Preis bestimmen, während Arbitrageure sicherstellen, dass der Kurs den aktuellen Marktbedingungen entspricht."
+    $5:
+      title: "Nachweisbare Zahlungsfähigkeit"
+      $0: "Der vorhandene Wert in Bonds, Tresoren und Pools ist leicht zu überprüfen. Knotenbetreiber könnten einen Wert, den sie hosten, stehlen, aber sie würden ihren Bond verlieren — der viel mehr wert ist als der Tresor. Lass dir die Liste der Knoten und Pools anzeigen."
+roadmap:
+  title: "ROADMAP & PLÄNE"
+  header: "Blockchainübergreifende Tauschvorgänge sind nur der Anfang"
+  subheader: "In seinem Kern ist THORChain ein blockchainübergreifendes Liquiditätsnetzwerk. Aber die Gestaltung des Protokolls ermöglicht viel mehr als nur Tauschvorgänge -- Synthetische und Composite Assets sowie selbsttilgende Kredite -- alles ist möglich."
+  content:
+    released:
+      title: "Released"
+      $0: "Das Binance Chain Chaosnet ist derzeit live auf BEPSwap. Dieses Netzwerk läuft auf einer einzelnen Blockchain und ermöglicht es Benutzern, BNB-Assets zu handeln und zu poolen. Das Netzwerk wird mit dem Release vom "Multi-Chain-Chaosnet" heruntergefahren."
+      $1: "Das Multi-Chain Testnet ist derzeit live in ASGARDEX. Dies ist die Vorversion des blockchainübergreifenden Netzwerks, das es Benutzern ermöglicht, native Testnet-Assets über verschiedene Blockchains hinweg zu tauschen."
+    upcoming:
+      title: "Demnächst"
+      $0: "Der Release des Multi-Chain Chaosnet (MCCN) steht unmittelbar bevor. MCCN ist das Ergebnis jahrelanger Entwicklungsarbeit und wird das erste funktionierende dezentrale blockchainübergreifende Liquiditätsnetzwerk sein."
+      $1: "Das Multi-Chain Mainnet wird angekündigt, sobald das Chaosnet als stabil eingestuft wurde."
+    future:
+      title: "Zukunft"
+      $0: "Viele zukünftige Features sind in Planung, darunter eine Reihe von "ThorFi"-Produkten, die Folgendes umfassen:"
+      $1: "Kreditwesen"
+      $2: "Composite Assets"
+      $3: "Synthetische Assets"
+      $4: "Gehebeltes Trading"
+org:
+  title: "THORCHAIN.ORG"
+  header: "Du suchst nach weiteren Einblicken?"
+vocab:
+  swap: "Tauschvorgang"
+  liquidity: "Liquidität"
+  tokens: "Tokens"
+  tvl: "Vorhandener Gesamtwert"
+  pooled: "pooled"
+  bonded: "gebunden"
+  users: "Benutzer"
+  price: "Preis"
